@@ -3,7 +3,9 @@
 - My Skills:
 - ReactJs (Material-UI)
 - Redux Toolkit
-- Django
+- NodeJs
+- ExpressJs
+- MongoDB
 - Restful APIs
 - HTML/CSS/JS
 - MySQL
