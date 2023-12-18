@@ -1,12 +1,14 @@
 - 👋 Hi, I’m @AliAgarz81
 - 👀 I’m interested in Web Development
 - My Skills:
-- ReactJs (Material-UI)
+- ReactJs
 - Redux Toolkit
+- .Net
 - NodeJs
 - ExpressJs
 - MongoDB
+- MySQL
 - Restful APIs
 - HTML/CSS/JS
-- MySQL
+- Tailwind CSS
 
