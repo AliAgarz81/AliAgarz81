@@ -4,6 +4,7 @@
 - ReactJs
 - Redux Toolkit
 - .Net
+- Asp.Net Core
 - NodeJs
 - ExpressJs
 - MongoDB
