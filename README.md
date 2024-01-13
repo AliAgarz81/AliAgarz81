@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @AliAgarz81
 - 👀 I’m interested in Software Development
 - My Skills:
-- ReactJs
-- Redux Toolkit
 - C#
 - Asp.Net Core
+- ReactJs
+- Redux Toolkit
 - NodeJs
 - ExpressJs
 - MongoDB
