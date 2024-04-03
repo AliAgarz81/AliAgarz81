@@ -3,13 +3,14 @@
 - My Skills:
 - C#
 - Asp.Net Core
+- Restful APIs
+- MVC
 - ReactJs
 - Redux Toolkit
 - NodeJs
 - ExpressJs
 - MongoDB
 - MySQL
-- Restful APIs
 - HTML/CSS/JS
 - Tailwind CSS
 
