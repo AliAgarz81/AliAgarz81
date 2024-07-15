@@ -1,16 +1,15 @@
 - 👋 Hi, I’m @AliAgarz81
 - 👀 I’m interested in Software Development
 - My Skills:
-- C#
-- Asp.Net Core
+- NodeJs
+- ExpressJS
 - Restful APIs
 - MVC
 - ReactJs
 - Redux Toolkit
-- NodeJs
-- ExpressJs
+- C#
+- ASP.NET Core
 - MongoDB
-- MySQL
+- SQL
 - HTML/CSS/JS
-- Tailwind CSS
 
